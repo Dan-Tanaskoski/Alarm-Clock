@@ -1,0 +1,60 @@
+html,
+body {
+  background-color: rgb(118, 150, 114);
+  color: #d1c9c9;
+  font-family: "Turret Road", cursive;
+  font-size: 20px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: #f2f7cb;
+  font-size: 240%;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+img {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  align-items: center;
+  padding-left: 32.5%;
+  height: 400px;
+  width: 600px;
+}
+
+input,
+label,
+select {
+  display: block;
+  margin-left: 45%;
+  margin-top: 5px;
+}
+input {
+  cursor: pointer;
+  padding: 5px 10px 5px 10px;
+}
+select {
+  border-radius: 3px;
+  padding: 10px 15px 10px 15px;
+  color: rgb(243, 239, 245);
+  background-color: rgb(70, 170, 148);
+  cursor: pointer;
+}
+
+.party {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  size: 20px;
+  padding: 10px 15px 10px 15px;
+  color: rgb(226, 136, 19);
+  background-color: rgb(70, 170, 148);
+  cursor: pointer;
+}
